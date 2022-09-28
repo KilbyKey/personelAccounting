@@ -1,0 +1,8 @@
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\obj\Debug\personelAccounting.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\obj\Debug\personelAccounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\obj\Debug\personelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\bin\Debug\personelAccounting.exe.config
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\bin\Debug\personelAccounting.exe
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\bin\Debug\personelAccounting.pdb
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\obj\Debug\personelAccounting.exe
+C:\Users\Xiaomi\source\repos\personelAccounting\personelAccounting\obj\Debug\personelAccounting.pdb
